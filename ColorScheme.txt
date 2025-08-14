@@ -1,0 +1,6 @@
+primary: '#06141B',
+navbar: '#11212D',
+surface: '#253745',
+muted: '#4A5C6A',
+border: '#9BA8AB',
+lightbg: '#CCD0CF',

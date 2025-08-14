@@ -1,0 +1,29 @@
+/* tailwindcss */
+@import "tailwindcss";
+
+:root {
+  --primary: #06141b;
+  --navbar: #11212d;
+  --surface: #253745;
+  --muted: #4a5c6a;
+  --border: #9ba8ab;
+  --lightbg: #ccd0cf;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  color: #4a5c6a;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Poppins", sans-serif;
+}
